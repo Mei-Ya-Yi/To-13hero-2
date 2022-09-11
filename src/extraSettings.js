@@ -9,7 +9,7 @@ let extraScore = 1;
 let wuDi = true;
 
 // 第一个水果：修改数字为 0-10, 0 为葡萄，9 为半个西瓜
-let firstFruit = 8;
+let firstFruit = 5;
 
 // 水果合成反转：false 改为 true
 let reverseLevelUp = true;
@@ -32,7 +32,7 @@ let fruitQTan = 0.4;
 let fruitSlowDown = false;
 
 // 点击右上方图标更换水果：false 改为 true 即可
-let clickChangeFruit = false;
+let clickChangeFruit = true;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
 let adLink = '';
